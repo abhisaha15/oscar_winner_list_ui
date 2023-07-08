@@ -1,0 +1,17 @@
+.bg_color{
+    background-color: #eee;
+}
+
+.btn_custom{
+    background-color: cornsilk;
+    display: inline-block;
+    padding: 2px;
+    margin: 2px;
+    color: blueviolet;
+}
+
+.form_custom{
+    padding: 2px;
+    margin: 2px;
+
+}
